@@ -1,2 +1,2 @@
 # Note
-Please refer to the Instruction.docx.
+Please refer to the Instructions.docx.
